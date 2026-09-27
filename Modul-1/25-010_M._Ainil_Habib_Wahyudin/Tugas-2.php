@@ -6,7 +6,7 @@
     <title>Tugas-2</title>
 </head>
 <body>
-    <H1><?php echo "Hello world";?></H1> 
-    // ini embeded-script
+    <H1><?php echo "Hello world"; // ini embeded-script?></H1> 
+    
 </body>
 </html>
