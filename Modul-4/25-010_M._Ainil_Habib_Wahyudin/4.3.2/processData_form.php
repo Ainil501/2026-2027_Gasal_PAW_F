@@ -16,8 +16,8 @@ if (isset($_POST['surname'])){
     include 'form.inc';
   }
 
-else {
-  echo 'Form submitted successfully with no errors';
+  else {
+    echo 'Form submitted successfully with no errors';
 } } else
 include 'form.inc';
 
